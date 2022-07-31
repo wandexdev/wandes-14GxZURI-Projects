@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    font-family: candara;
+  }
+
+  header{
+      background-color: rgb(29, 28, 28);
+      margin: auto;
+      height: 5%;
+      color: azure;
+      font-size: 20px;
+      padding: 15px;
+      margin-bottom: 20px;
+  }
+
+p {
+    font-size: 35px;
+    font font-family: candara ,sans-serif;
+}
+  body {
+      background-color: rgb(227, 238, 248);
+      height: 40%;
+    }
+
+button {
+    border: none;
+    color: azure;
+    background-color: #058baa;
+    padding: 15px 30px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.radio {</div></div>
+    font-size: 25px;
+    color: rgb(45, 45, 45)
+    display: flex;
+    flex-direction: column;
+}
+
+Body {
+        border-bottom: 3px solid black;
+    }
+
+
+.radio {
+        color: rgb(45, 45, 45)
+        display: flex;
+        flex-direction: column;
+        
+
+    }
